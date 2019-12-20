@@ -1,2 +1,2 @@
 # hello_world
-Learning to us a Repository
+Learning to use a GitHub Repository
